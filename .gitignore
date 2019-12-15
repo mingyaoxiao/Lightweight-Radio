@@ -129,5 +129,6 @@ dmypy.json
 .pyre/
 
 # Songs
+songs/
 *.m4a
 *.mp3

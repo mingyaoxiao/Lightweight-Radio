@@ -1,0 +1,5 @@
+# Youtube Authentication
+youtube-authentication-username:
+youtube-authentication-password:
+
+# Song Repository Structure

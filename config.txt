@@ -3,3 +3,5 @@ youtube-authentication-username:
 youtube-authentication-password:
 
 # Song Repository Structure
+song-repository-structure-root:
+song-repository-structure-playlist-data:
